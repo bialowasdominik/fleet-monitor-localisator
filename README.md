@@ -21,16 +21,18 @@ The device has been designed and implemented based on the following technologies
 - DC socket (for power supply)
 - Kradex Z4 (case to mount all components)
 
-**The image below show the finished device.**
+**The image below show the finished device**
 
-![image](https://github.com/bialowasdominik/fleet-monitor-localisator/assets/106835786/70df97c2-0d89-4656-a609-06f8bd354920)
+![image](https://github.com/bialowasdominik/fleet-monitor-localisator/assets/106835786/711ddc9b-9fa8-4d0b-8114-1899c1d02d32)
 
 **The image below shows the interior of the constructed device**
 
-![image](https://github.com/bialowasdominik/fleet-monitor-localisator/assets/106835786/9d0f830a-1ae0-4144-b59f-789be496e371)
+![image](https://github.com/bialowasdominik/fleet-monitor-localisator/assets/106835786/ad316e11-c13e-467c-95bb-8ab74c511d78)
 
 **The image below presents the diagram according to which the device has been assembled**
 
-![image](https://github.com/bialowasdominik/fleet-monitor-localisator/assets/106835786/bfe96c46-69a9-4ba8-9c00-c36ee288dfaf)
+![image](https://github.com/bialowasdominik/fleet-monitor-localisator/assets/106835786/3b3b9ac6-47f8-47c5-9f53-ac7b3f4b9330)
+
+
 
 
